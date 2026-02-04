@@ -1,6 +1,8 @@
 # Mykola Meleshko — Mechanical CAD Portfolio
 
 Mechanical CAD designer specializing in Fusion 360.
+I help clients turn ideas into manufacturing-ready CAD models.
+
 
 ## Skills
 - 3D modeling (Fusion 360)
