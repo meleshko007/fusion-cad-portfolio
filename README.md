@@ -17,6 +17,13 @@ I help clients turn ideas into manufacturing-ready CAD models.
 - Product redesign & optimization
 - Manufacturing-ready files
 
+- ## Why work with me
+- Clear communication
+- Fast turnaround
+- Engineering-focused design
+- Manufacturing-ready results
+
+
 ## Focus
 - Mechanical parts
 - Brackets and mounts
